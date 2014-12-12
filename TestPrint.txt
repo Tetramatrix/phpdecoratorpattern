@@ -1,0 +1,9 @@
+...........Commencing travel. Pick mb. Has 2 wheels. Has engine. Start engine. Drive.
+.Commencing travel. Pick mb. Has 2 wheels. Has engine. Start engine. Drive.
+Arrived. Pick mb. Has 2 wheels. Has engine. Stop engine. Stop.
+.Commencing travel. Pick bike. Has 2 wheels. Has no engine. Stop.
+
+
+Time: 47 ms, Memory: 3.50Mb
+
+OK (13 tests, 13 assertions)
